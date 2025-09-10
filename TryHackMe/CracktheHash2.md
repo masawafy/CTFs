@@ -487,7 +487,7 @@ Session completed
 ---
 
 ### 5) d5e085772469d544a447bc8250890949
-- **Answer:** 
+- **Answer:** uoy ot miws ot em rof peed oot ro ediw oot si revir oN
 - **Steps to Reproduce:** 
     - Use `Lyricpass` to generate song list of the favourite singer `Adele`.
 
